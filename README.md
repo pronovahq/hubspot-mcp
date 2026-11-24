@@ -3,6 +3,8 @@
 A standalone [Model Context Protocol](https://modelcontextprotocol.io) server
 for HubSpot CRM, distributable as a **Claude Code plugin**.
 
+> **Moved:** this repo now lives at [pronovahq/hubspot-mcp](https://github.com/pronovahq/hubspot-mcp). Links and clones of the old `promptmetrics/hubspot-mcp` address redirect.
+
 Speaks MCP protocol **`2026-07-28`** (and still serves handshake-era clients
 back to `2024-11-05`, so nothing already installed breaks).
 

@@ -2,7 +2,7 @@
   "name": "promptmetrics-hubspot-mcp",
   "owner": {
     "name": "promptmetrics",
-    "url": "https://github.com/promptmetrics/hubspot-mcp"
+    "url": "https://github.com/pronovahq/hubspot-mcp"
   },
   "description": "PromptMetrics marketplace for hubspot-mcp \u2014 a HubSpot CRM MCP server with a human-in-the-loop write gate, risk-tiered approval and undo.",
   "plugins": [

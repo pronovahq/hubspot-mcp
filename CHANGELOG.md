@@ -2,6 +2,12 @@
 
 ## Unreleased
 
+### Repo moved to the pronovahq org (2026-11-24)
+
+- The repo moved from `promptmetrics/hubspot-mcp` to `pronovahq/hubspot-mcp`. The README, `pyproject.toml`, the
+  marketplace owner URL and the HubSpot app's documentation and support URLs point to the new address. The old
+  address redirects. The marketplace name `promptmetrics-hubspot-mcp` is unchanged, so installs keep working.
+
 ### Routed surface, served skills, and a session bench (2026-10-01)
 
 - **A second MCP surface at `/mcp/routed`** with four tools: `find_capabilities(task)` routes a
