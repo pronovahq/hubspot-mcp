@@ -48,8 +48,8 @@
     },
     "support": {
       "supportEmail": "REPLACE_BEFORE_LISTING@example.com",
-      "documentationUrl": "https://github.com/promptmetrics/hubspot-mcp#readme",
-      "supportUrl": "https://github.com/promptmetrics/hubspot-mcp/issues",
+      "documentationUrl": "https://github.com/pronovahq/hubspot-mcp#readme",
+      "supportUrl": "https://github.com/pronovahq/hubspot-mcp/issues",
       "supportPhone": "+10000000000"
     }
   }

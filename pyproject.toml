@@ -27,8 +27,8 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/promptmetrics/hubspot-mcp"
-Repository = "https://github.com/promptmetrics/hubspot-mcp"
+Homepage = "https://github.com/pronovahq/hubspot-mcp"
+Repository = "https://github.com/pronovahq/hubspot-mcp"
 
 [project.scripts]
 hubspot-mcp = "hubspot_mcp.__main__:main"

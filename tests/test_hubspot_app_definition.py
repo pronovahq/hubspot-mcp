@@ -114,4 +114,4 @@ def test_support_placeholders_are_obvious():
     """
     support = json.loads(APP_META.read_text())["config"]["support"]
     assert "REPLACE_BEFORE_LISTING" in support["supportEmail"]
-    assert support["documentationUrl"].startswith("https://github.com/promptmetrics/hubspot-mcp")
+    assert support["documentationUrl"].startswith("https://github.com/pronovahq/hubspot-mcp")
