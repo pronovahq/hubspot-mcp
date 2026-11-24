@@ -36,7 +36,7 @@ token (PAT) fallback is available via the CLI.
 In Claude Code:
 
 ```
-/plugin marketplace add promptmetrics/hubspot-mcp
+/plugin marketplace add pronovahq/hubspot-mcp
 /plugin install hubspot-mcp@promptmetrics-hubspot-mcp
 ```
 
